@@ -1,5 +1,4 @@
-# Pokemon-search
-<b>SITE DO PROJETO: </b>https://enviabybus-teste.000webhostapp.com/
+
 
 <b>* Para executar é bem simples. Basta fazer o clone deste repositorio e abrir o arquivo <i>index.html *</i>.</b>
 
